@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g3" x1="0" x2="1">
+      <stop offset="0%" stop-color="#04202b" />
+      <stop offset="100%" stop-color="#0b4d3b" />
+    </linearGradient>
+    <style>
+      .title { font: 700 44px/1.1 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; fill: #fff }
+      .subtitle { font: 400 18px/1.2 'Inter', system-ui; fill: rgba(255,255,255,0.9) }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="#00121a" />
+  <g transform="translate(120,760)">
+    <rect x="-120" y="-880" width="2160" height="1200" fill="url(#g3)" opacity="0.6"/>
+    <text class="title">Riverside Renovation</text>
+    <text class="subtitle" y="48">Structural and aesthetic renovation</text>
+  </g>
+</svg>
